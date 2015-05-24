@@ -14,13 +14,17 @@
         <div class="blog-title"><a href="{{@blog.url}}">{{@blog.title}}</a></div>
         <p class="blog-description">{{@blog.description}}</p>
       </div>
+	  
+	  {{> "social"}}
     </div>
 
-    {{!
-      Here, you can add social icons.
-    }}
-    {{!> "social"}}
+    
+    
   </div>
+  
+  {{> menu}}
+  
+  
 
   {{else}}
 
