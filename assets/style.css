@@ -643,7 +643,7 @@ cite {
     margin-bottom: 0}
 .blog-description {
     font-size: 1rem;
-    max-width: 480px;
+    max-width: 600px;
     margin: 0 auto}
 .blog-info {
     font-family: 'Raleway';
@@ -668,7 +668,7 @@ cite {
     background-size: cover;
     background-position: center}
 .cover-mask {
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,0.3);
     color: #fff;
 }
 .cover-mask img {
