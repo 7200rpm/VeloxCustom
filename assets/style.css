@@ -876,3 +876,13 @@ nav.menu li:last-child {
     display: block;
   }
 }
+
+/*****************************
+ 	ADS - SECTION
+*****************************/
+
+.ads{
+    margin: 20px auto 2em;
+  width: 90%;
+  max-width: 800px;
+}
